@@ -1,0 +1,507 @@
+[
+    {
+        "title": "Rise of Rise",
+        "genre": "Animation",
+        "rating": 7.2
+    },
+    {
+        "title": "Saga of Rise",
+        "genre": "Fantasy",
+        "rating": 9.1
+    },
+    {
+        "title": "Chronicles of Quest",
+        "genre": "Crime",
+        "rating": 8.2
+    },
+    {
+        "title": "Empire of Quest",
+        "genre": "Comedy",
+        "rating": 8.3
+    },
+    {
+        "title": "Shadows of Rise",
+        "genre": "Crime",
+        "rating": 8.4
+    },
+    {
+        "title": "Shadows of Shadows",
+        "genre": "Crime",
+        "rating": 8.7
+    },
+    {
+        "title": "Saga of Saga",
+        "genre": "Sci-Fi",
+        "rating": 6.7
+    },
+    {
+        "title": "Rise of Fall",
+        "genre": "Animation",
+        "rating": 6.3
+    },
+    {
+        "title": "The of The",
+        "genre": "Action",
+        "rating": 7.3
+    },
+    {
+        "title": "Light of Shadows",
+        "genre": "Crime",
+        "rating": 7.2
+    },
+    {
+        "title": "Quest of Shadows",
+        "genre": "Fantasy",
+        "rating": 8.8
+    },
+    {
+        "title": "Empire of Chronicles",
+        "genre": "Drama",
+        "rating": 6.8
+    },
+    {
+        "title": "The of Rise",
+        "genre": "Comedy",
+        "rating": 9.5
+    },
+    {
+        "title": "Saga of Legacy",
+        "genre": "Adventure",
+        "rating": 7.5
+    },
+    {
+        "title": "Chronicles of Empire",
+        "genre": "Animation",
+        "rating": 6.7
+    },
+    {
+        "title": "Quest of Light",
+        "genre": "Thriller",
+        "rating": 6.1
+    },
+    {
+        "title": "Fall of Shadows",
+        "genre": "Drama",
+        "rating": 6.8
+    },
+    {
+        "title": "Rise of Legacy",
+        "genre": "Action",
+        "rating": 8.8
+    },
+    {
+        "title": "The of Shadows",
+        "genre": "Animation",
+        "rating": 9.4
+    },
+    {
+        "title": "Fall of Legacy",
+        "genre": "Adventure",
+        "rating": 6.4
+    },
+    {
+        "title": "Quest of Rise",
+        "genre": "Sci-Fi",
+        "rating": 8.8
+    },
+    {
+        "title": "Rise of Shadows",
+        "genre": "Comedy",
+        "rating": 9.5
+    },
+    {
+        "title": "Shadows of Empire",
+        "genre": "Action",
+        "rating": 7.0
+    },
+    {
+        "title": "Chronicles of Legacy",
+        "genre": "Crime",
+        "rating": 6.8
+    },
+    {
+        "title": "Legacy of Quest",
+        "genre": "Crime",
+        "rating": 9.3
+    },
+    {
+        "title": "Rise of Light",
+        "genre": "Comedy",
+        "rating": 7.2
+    },
+    {
+        "title": "Fall of The",
+        "genre": "Animation",
+        "rating": 7.1
+    },
+    {
+        "title": "Shadows of Chronicles",
+        "genre": "Action",
+        "rating": 8.4
+    },
+    {
+        "title": "Shadows of Light",
+        "genre": "Drama",
+        "rating": 6.7
+    },
+    {
+        "title": "Light of The",
+        "genre": "Thriller",
+        "rating": 8.1
+    },
+    {
+        "title": "The of Chronicles",
+        "genre": "Drama",
+        "rating": 7.7
+    },
+    {
+        "title": "Light of Empire",
+        "genre": "Adventure",
+        "rating": 7.6
+    },
+    {
+        "title": "Shadows of The",
+        "genre": "Animation",
+        "rating": 8.0
+    },
+    {
+        "title": "The of Light",
+        "genre": "Adventure",
+        "rating": 6.7
+    },
+    {
+        "title": "Legacy of Light",
+        "genre": "Fantasy",
+        "rating": 6.5
+    },
+    {
+        "title": "Fall of Chronicles",
+        "genre": "Comedy",
+        "rating": 7.0
+    },
+    {
+        "title": "Chronicles of Fall",
+        "genre": "Comedy",
+        "rating": 9.2
+    },
+    {
+        "title": "Legacy of Fall",
+        "genre": "Drama",
+        "rating": 7.5
+    },
+    {
+        "title": "Empire of Fall",
+        "genre": "Crime",
+        "rating": 6.9
+    },
+    {
+        "title": "Chronicles of Shadows",
+        "genre": "Sci-Fi",
+        "rating": 6.7
+    },
+    {
+        "title": "Saga of Shadows",
+        "genre": "Drama",
+        "rating": 7.9
+    },
+    {
+        "title": "Quest of Empire",
+        "genre": "Drama",
+        "rating": 8.4
+    },
+    {
+        "title": "Legacy of Shadows",
+        "genre": "Sci-Fi",
+        "rating": 6.3
+    },
+    {
+        "title": "Legacy of Saga",
+        "genre": "Adventure",
+        "rating": 8.8
+    },
+    {
+        "title": "Fall of Rise",
+        "genre": "Fantasy",
+        "rating": 7.0
+    },
+    {
+        "title": "Light of Legacy",
+        "genre": "Fantasy",
+        "rating": 9.0
+    },
+    {
+        "title": "Legacy of Rise",
+        "genre": "Drama",
+        "rating": 8.1
+    },
+    {
+        "title": "Saga of Chronicles",
+        "genre": "Animation",
+        "rating": 7.0
+    },
+    {
+        "title": "Rise of Saga",
+        "genre": "Comedy",
+        "rating": 9.0
+    },
+    {
+        "title": "Light of Fall",
+        "genre": "Drama",
+        "rating": 7.3
+    },
+    {
+        "title": "Rise of Empire",
+        "genre": "Animation",
+        "rating": 6.5
+    },
+    {
+        "title": "Quest of The",
+        "genre": "Animation",
+        "rating": 8.8
+    },
+    {
+        "title": "Chronicles of Rise",
+        "genre": "Action",
+        "rating": 7.1
+    },
+    {
+        "title": "The of Saga",
+        "genre": "Animation",
+        "rating": 7.3
+    },
+    {
+        "title": "Saga of Empire",
+        "genre": "Sci-Fi",
+        "rating": 6.2
+    },
+    {
+        "title": "Light of Rise",
+        "genre": "Crime",
+        "rating": 9.2
+    },
+    {
+        "title": "Rise of The",
+        "genre": "Action",
+        "rating": 7.4
+    },
+    {
+        "title": "Quest of Fall",
+        "genre": "Adventure",
+        "rating": 8.9
+    },
+    {
+        "title": "Chronicles of Chronicles",
+        "genre": "Thriller",
+        "rating": 7.1
+    },
+    {
+        "title": "Shadows of Legacy",
+        "genre": "Crime",
+        "rating": 9.4
+    },
+    {
+        "title": "Fall of Quest",
+        "genre": "Animation",
+        "rating": 7.7
+    },
+    {
+        "title": "Light of Chronicles",
+        "genre": "Comedy",
+        "rating": 7.6
+    },
+    {
+        "title": "Quest of Legacy",
+        "genre": "Thriller",
+        "rating": 8.4
+    },
+    {
+        "title": "Shadows of Saga",
+        "genre": "Crime",
+        "rating": 6.1
+    },
+    {
+        "title": "Quest of Quest",
+        "genre": "Adventure",
+        "rating": 8.7
+    },
+    {
+        "title": "Chronicles of Light",
+        "genre": "Sci-Fi",
+        "rating": 9.3
+    },
+    {
+        "title": "Saga of Quest",
+        "genre": "Animation",
+        "rating": 7.6
+    },
+    {
+        "title": "Shadows of Quest",
+        "genre": "Crime",
+        "rating": 7.0
+    },
+    {
+        "title": "Fall of Saga",
+        "genre": "Fantasy",
+        "rating": 7.9
+    },
+    {
+        "title": "The of Legacy",
+        "genre": "Animation",
+        "rating": 7.4
+    },
+    {
+        "title": "Fall of Fall",
+        "genre": "Action",
+        "rating": 7.7
+    },
+    {
+        "title": "Quest of Chronicles",
+        "genre": "Crime",
+        "rating": 6.2
+    },
+    {
+        "title": "Legacy of Legacy",
+        "genre": "Adventure",
+        "rating": 9.2
+    },
+    {
+        "title": "Quest of Saga",
+        "genre": "Sci-Fi",
+        "rating": 9.0
+    },
+    {
+        "title": "Empire of Light",
+        "genre": "Comedy",
+        "rating": 6.9
+    },
+    {
+        "title": "Saga of Fall",
+        "genre": "Crime",
+        "rating": 9.4
+    },
+    {
+        "title": "Saga of Light",
+        "genre": "Drama",
+        "rating": 8.8
+    },
+    {
+        "title": "Shadows of Fall",
+        "genre": "Drama",
+        "rating": 7.6
+    },
+    {
+        "title": "Empire of Saga",
+        "genre": "Crime",
+        "rating": 9.4
+    },
+    {
+        "title": "Chronicles of The",
+        "genre": "Drama",
+        "rating": 8.7
+    },
+    {
+        "title": "Empire of Rise",
+        "genre": "Crime",
+        "rating": 8.8
+    },
+    {
+        "title": "The of Fall",
+        "genre": "Action",
+        "rating": 6.3
+    },
+    {
+        "title": "Empire of Empire",
+        "genre": "Animation",
+        "rating": 8.4
+    },
+    {
+        "title": "Empire of The",
+        "genre": "Fantasy",
+        "rating": 9.5
+    },
+    {
+        "title": "Legacy of Chronicles",
+        "genre": "Crime",
+        "rating": 6.6
+    },
+    {
+        "title": "Light of Quest",
+        "genre": "Animation",
+        "rating": 8.1
+    },
+    {
+        "title": "Fall of Empire",
+        "genre": "Action",
+        "rating": 9.1
+    },
+    {
+        "title": "The of Empire",
+        "genre": "Fantasy",
+        "rating": 6.9
+    },
+    {
+        "title": "Rise of Quest",
+        "genre": "Drama",
+        "rating": 7.8
+    },
+    {
+        "title": "Light of Saga",
+        "genre": "Comedy",
+        "rating": 6.2
+    },
+    {
+        "title": "Fall of Light",
+        "genre": "Sci-Fi",
+        "rating": 7.4
+    },
+    {
+        "title": "Rise of Chronicles",
+        "genre": "Drama",
+        "rating": 8.0
+    },
+    {
+        "title": "Legacy of Empire",
+        "genre": "Action",
+        "rating": 6.9
+    },
+    {
+        "title": "Light of Light",
+        "genre": "Comedy",
+        "rating": 6.5
+    },
+    {
+        "title": "Saga of The",
+        "genre": "Action",
+        "rating": 8.0
+    },
+    {
+        "title": "Chronicles of Saga",
+        "genre": "Action",
+        "rating": 8.5
+    },
+    {
+        "title": "The of Quest",
+        "genre": "Comedy",
+        "rating": 8.3
+    },
+    {
+        "title": "Legacy of The",
+        "genre": "Comedy",
+        "rating": 8.5
+    },
+    {
+        "title": "Empire of Legacy",
+        "genre": "Animation",
+        "rating": 8.6
+    },
+    {
+        "title": "Empire of Shadows",
+        "genre": "Sci-Fi",
+        "rating": 6.3
+    },
+    {
+        "title": "abc",
+        "genre": "abc",
+        "rating": 10.0
+    }
+]
